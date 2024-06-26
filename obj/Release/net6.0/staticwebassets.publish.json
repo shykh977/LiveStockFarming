@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "d0ZlQwO5GiHm1a4ZRXxPHdNHTF6d6sgsMVsR3DSmCYM=",
+  "Source": "GfsBalloting",
+  "BasePath": "_content/GfsBalloting",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GfsBalloting\\wwwroot",
+      "Source": "GfsBalloting",
+      "ContentRoot": "C:\\Users\\BTG-004\\Desktop\\PTMS\\PwDbAssistant\\wwwroot\\",
+      "BasePath": "_content/GfsBalloting",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\BTG-004\\Desktop\\PTMS\\PwDbAssistant\\wwwroot\\Content",
+      "SourceId": "GfsBalloting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BTG-004\\Desktop\\PTMS\\PwDbAssistant\\wwwroot\\",
+      "BasePath": "_content/GfsBalloting",
+      "RelativePath": "Content",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content"
+    }
+  ]
+}

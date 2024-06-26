@@ -1,0 +1,456 @@
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.AssemblyReference.cache
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.GeneratedMSBuildEditorConfig.editorconfig
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfoInputs.cache
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfo.cs
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CoreCompileInputs.cache
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cs
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cache
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\appsettings.Development.json
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\appsettings.json
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.staticwebassets.runtime.json
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.exe
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.deps.json
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.runtimeconfig.json
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.pdb
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Dapper.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\DapperExtensions.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Slapper.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.GfsBalloting.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.build.GfsBalloting.props
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GfsBalloting.props
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GfsBalloting.props
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\staticwebassets.build.json
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\staticwebassets.development.json
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\scopedcss\bundle\GfsBalloting.styles.css
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CopyComplete
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\refint\GfsBalloting.dll
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.pdb
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.genruntimeconfig.cache
+D:\GFS-NEW-Ballot\PwDbAssistant\obj\Debug\net6.0\ref\GfsBalloting.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.json
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.staticwebassets.runtime.json
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.exe
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.deps.json
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.runtimeconfig.json
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.pdb
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Dapper.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\DapperExtensions.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Slapper.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.AssemblyReference.cache
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfoInputs.cache
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfo.cs
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CoreCompileInputs.cache
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.GfsBalloting.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.build.GfsBalloting.props
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GfsBalloting.props
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GfsBalloting.props
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\scopedcss\bundle\GfsBalloting.styles.css
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CopyComplete
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\refint\GfsBalloting.dll
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.pdb
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.genruntimeconfig.cache
+C:\Users\Daman\Downloads\GFS-NEW-Ballot\PTMS\PwDbAssistant\obj\Debug\net6.0\ref\GfsBalloting.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.Development.json
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.json
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.staticwebassets.runtime.json
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.exe
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.deps.json
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.runtimeconfig.json
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.pdb
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Dapper.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\DapperExtensions.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Slapper.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.AssemblyReference.cache
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.GeneratedMSBuildEditorConfig.editorconfig
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfoInputs.cache
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfo.cs
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CoreCompileInputs.cache
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cs
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cache
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.GfsBalloting.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.build.GfsBalloting.props
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GfsBalloting.props
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GfsBalloting.props
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.build.json
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.development.json
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\scopedcss\bundle\GfsBalloting.styles.css
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CopyComplete
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\refint\GfsBalloting.dll
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.pdb
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.genruntimeconfig.cache
+D:\New PRoject\Front\PTMS\PwDbAssistant\obj\Debug\net6.0\ref\GfsBalloting.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.json
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.staticwebassets.runtime.json
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.exe
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.deps.json
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.runtimeconfig.json
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.pdb
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Dapper.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\DapperExtensions.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Slapper.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.AssemblyReference.cache
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfoInputs.cache
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfo.cs
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CoreCompileInputs.cache
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.GfsBalloting.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.build.GfsBalloting.props
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GfsBalloting.props
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GfsBalloting.props
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\scopedcss\bundle\GfsBalloting.styles.css
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CopyComplete
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\refint\GfsBalloting.dll
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.pdb
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.genruntimeconfig.cache
+C:\Users\BTG-004\Desktop\PTMS\PwDbAssistant\obj\Debug\net6.0\ref\GfsBalloting.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.json
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.staticwebassets.runtime.json
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.exe
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.deps.json
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.runtimeconfig.json
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.pdb
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Dapper.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\DapperExtensions.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Slapper.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.AssemblyReference.cache
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfoInputs.cache
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfo.cs
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CoreCompileInputs.cache
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.GfsBalloting.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.build.GfsBalloting.props
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GfsBalloting.props
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GfsBalloting.props
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\scopedcss\bundle\GfsBalloting.styles.css
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CopyComplete
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\refint\GfsBalloting.dll
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.pdb
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.genruntimeconfig.cache
+C:\Users\BTG-Technologies\Desktop\PTTTT\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\ref\GfsBalloting.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\appsettings.json
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.staticwebassets.runtime.json
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.exe
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.deps.json
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.runtimeconfig.json
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\GfsBalloting.pdb
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Dapper.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\DapperExtensions.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Slapper.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.AssemblyReference.cache
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfoInputs.cache
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.AssemblyInfo.cs
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CoreCompileInputs.cache
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.GfsBalloting.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.build.GfsBalloting.props
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GfsBalloting.props
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GfsBalloting.props
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\scopedcss\bundle\GfsBalloting.styles.css
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.csproj.CopyComplete
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\refint\GfsBalloting.dll
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.pdb
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\GfsBalloting.genruntimeconfig.cache
+C:\Users\Daman\Desktop\PTMS (1)\PTMS\PTMS\PwDbAssistant\obj\Debug\net6.0\ref\GfsBalloting.dll
